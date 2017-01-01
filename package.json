@@ -1,0 +1,30 @@
+{
+  "name": "eslint-config-jsbites",
+  "version": "0.2.0",
+  "description": "Byte-Sized JavaScript Coding Standards",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsbites/coding-standards.git"
+  },
+  "keywords": [
+    "coding",
+    "standards",
+    "eslint",
+    "static",
+    "analyzers",
+    "validators",
+    "rules",
+    "rulesets",
+    "validation"
+  ],
+  "author": "Volkan Özçelik <me@volkan.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jsbites/coding-standards/issues"
+  },
+  "homepage": "https://github.com/jsbites/coding-standards#readme"
+}
