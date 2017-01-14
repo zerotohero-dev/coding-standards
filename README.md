@@ -13,7 +13,7 @@ The rulesets assume sane defaults. — You can directly use them in your project
 
 ## About This Repository
 
-This repository is a part of [Byte-Sized JavaScript Weekly VideoCast][vidcast].
+This repository is a part of the [Byte-Sized JavaScript Weekly VideoCasts][vidcast].
 
 ```
   _               __
