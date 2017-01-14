@@ -22,7 +22,7 @@ This repository is a part of [Byte-Sized JavaScript Weekly VideoCast][vidcast].
      /        |  _.     _. (_   _ ._ o ._ _|_
             \_| (_| \/ (_| __) (_ |  | |_) |_
                                        |
-            »»  bit.ly/bytesized  ««
+            »»  bytesized.tv  ««
 ```
 
 ## Byte-Sized What?!
