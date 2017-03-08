@@ -46,6 +46,11 @@ module.exports = {
         'node': true
     },
 
+    'parserOptions': {
+        'ecmaVersion': 8,
+        'sourceType': 'module'
+    },
+
     'rules': {
 
         /* Possible Errors */
