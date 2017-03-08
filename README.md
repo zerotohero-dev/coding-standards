@@ -62,6 +62,14 @@ Or if you are using [React](https://facebook.github.io/react/) in your project, 
 }
 ```
 
+Or if you are on a **Node.JS** runtime and/or you don’t use a transpiler at all, use the following ruleset:
+
+```text
+{
+    "extends": "jsbites/node"
+}
+```
+
 That’s it!
 
 ## Dependencies
