@@ -1,10 +1,11 @@
 ```
- _  _   _ ) o  _   _
-(_ (_) (_(  ( ) ) (_(
-                    _)
- _ _)_ _   _   _ ) _   _ _ ) _
-(  (_ (_( ) ) (_( (_( ) (_( (
-_)                          _)
+   __                                  __
+  / _)  _  _   _ ) o  _   _           (_ \
+ | |   (_ (_) (_(  ( ) ) (_(            | |
+( (                       _)             ) )
+ | |_   _ _)_ _   _   _ ) _   _ _ ) _  _| |
+  \__) (  (_ (_( ) ) (_( (_( ) (_( (  (__/
+       _)                          _)
 ```
 
 **Byte-Sized JavaScript Coding Standards** is a repository to share common [ESLint](http://eslint.org/) rules that we use across all Byte-Sized JavaScript repositories.
