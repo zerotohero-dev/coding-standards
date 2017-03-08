@@ -74,6 +74,13 @@ Most of the time what you will need to install will be self-explanatory when you
 
 If you have any problems though, [feel free to file an issue](https://github.com/jsbites/coding-standards/issues/new).
 
+## Package Scripts
+
+Here are the helper npm scripts that you can run via `npm`:
+
+* `npm test`: Executes the unit tests.
+* `npm run lint`: Checks whether the source JavaScript is well-formed.
+
 ## Important Files and Folders
 
 * `./index.js`: The default ruleset.

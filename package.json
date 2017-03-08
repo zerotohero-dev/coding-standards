@@ -1,10 +1,11 @@
 {
   "name": "eslint-config-jsbites",
-  "version": "0.3.1",
+  "version": "0.4.0",
   "description": "Byte-Sized JavaScript Coding Standards",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "bin/test.sh",
+    "lint": "bin/lint.sh"
   },
   "repository": {
     "type": "git",
@@ -26,5 +27,8 @@
   "bugs": {
     "url": "https://github.com/jsbites/coding-standards/issues"
   },
-  "homepage": "https://github.com/jsbites/coding-standards#readme"
+  "homepage": "https://github.com/jsbites/coding-standards#readme",
+  "devDependencies": {
+    "eslint": "^3.17.1"
+  }
 }
