@@ -93,6 +93,7 @@ Here are the helper npm scripts that you can run via `npm`:
 
 * `./index.js`: The default ruleset.
 * `./react.js`: [React](https://facebook.github.io/react/)-specific rulest.
+* `./node.js`: [Node.JS](https://nodejs.org/)-specific rulest.
 * `CHANGELOG.md`: A log of what has been done since the last version.
 * `CODE_OF_CONDUCT.md`: Tells the collaborators to be nice to each other.
 * `README.md`: This very file.
