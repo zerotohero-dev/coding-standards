@@ -127,3 +127,5 @@ MIT-licensed. — See [the license file](LICENSE.md) for details.
 We are committed to making participation in this project a harassment-free experience for everyone, regardless of the level of experience, gender, gender identity and expression, sexual orientation, disability, personal appearance, body size, race, ethnicity, age, religion, or nationality.
 
 [See the code of conduct for details](CODE_OF_CONDUCT.md).
+
+
