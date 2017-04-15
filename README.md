@@ -1,3 +1,11 @@
+[![tests][tests]][tests-url]
+[![deps][deps]][deps-url]
+
+[tests]: https://img.shields.io/travis/jsbites/coding-standards.svg
+[tests-url]: https://travis-ci.org/jsbites/coding-standards
+[deps]: https://david-dm.org/jsbites/coding-standards.svg
+[deps-url]: https://david-dm.org/jsbites/coding-standards
+
 ```
    __                                  __
   / _)  _  _   _ ) o  _   _           (_ \
