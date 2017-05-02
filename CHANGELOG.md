@@ -8,6 +8,10 @@
        _)                          _)
 ```
 
+## **Byte-Sized JavaScript Coding Standards** (*v0.5.0*)
+
+* Updated the rule definitions to be stricter. — Now violations result in **errors**, not *warnings*.
+
 ## **Byte-Sized JavaScript Coding Standards** (*v0.4.0*)
 
 * Added Node.JS-specific rules that do not depend on a transpiler (like Babel).
