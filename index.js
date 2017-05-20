@@ -244,7 +244,7 @@ module.exports = {
         'max-params': 0,
         'max-statements': 0,
         'no-bitwise': 2,
-        'no-plusplus': 2,
+        'no-plusplus': 0,
 
         /* Babel */
         'babel/new-cap': 2,
