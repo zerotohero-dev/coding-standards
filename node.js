@@ -247,7 +247,7 @@ module.exports = {
         'max-params': 0,
         'max-statements': 0,
         'no-bitwise': 2,
-        'no-plusplus': 2,
+        'no-plusplus': 0,
 
         'new-cap': 2,
         'object-curly-spacing': [ 2, 'always' ]
