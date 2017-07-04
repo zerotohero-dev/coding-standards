@@ -8,6 +8,10 @@
        _)                          _)
 ```
 
+## **Byte-Sized JavaScript Coding Standards** (*v0.7.0*)
+
+* Slightly changed the code to keep it compatible with the recent version of ESLint.
+
 ## **Byte-Sized JavaScript Coding Standards** (*v0.5.0*)
 
 * Updated the rule definitions to be stricter. — Now violations result in **errors**, not *warnings*.
