@@ -43,9 +43,9 @@ module.exports = {
             'globalReturn': false,
             'jsx': false
         },
-        "sourceType": "module"
+        'sourceType': 'module'
     },
-    
+
     'env': {
         'browser': true,
         'node': true
