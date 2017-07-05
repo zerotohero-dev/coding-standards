@@ -19,7 +19,13 @@
     "validators",
     "rules",
     "rulesets",
-    "validation"
+    "validation",
+    "javascript",
+    "podcast",
+    "screencast",
+    "bytesized.tv",
+    "byte-sized javascript",
+    "byte-sized"
   ],
   "author": "Volkan Özçelik <me@volkan.io> (https://volkan.io/)",
   "license": "MIT",
