@@ -24,8 +24,8 @@
     "rulesets",
     "screencast",
     "standards",
+    "static analyzers",
     "static",
-    "validation",
     "validators"
   ],
   "author": "Volkan Özçelik <me@volkan.io> (https://volkan.io/)",
