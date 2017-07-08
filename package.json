@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-jsbites",
-  "version": "0.7.2",
+  "version": "0.8.0",
   "description": "Byte-Sized JavaScript Coding Standards",
   "main": "index.js",
   "scripts": {
@@ -17,8 +17,11 @@
     "byte-sized",
     "bytesized.tv",
     "coding",
+    "demos",
+    "education",
     "eslint",
     "javascript",
+    "learning",
     "podcast",
     "rules",
     "rulesets",
@@ -26,7 +29,11 @@
     "standards",
     "static analyzers",
     "static",
-    "validators"
+    "tutorials",
+    "validators",
+    "vidcast",
+    "videocast",
+    "videos"
   ],
   "author": "Volkan Özçelik <me@volkan.io> (https://volkan.io/)",
   "license": "MIT",

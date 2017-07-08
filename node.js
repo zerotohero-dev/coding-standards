@@ -16,39 +16,39 @@
  */
 
 module.exports = {
-    'ecmaFeatures': {
-        'arrowFunctions': true,
-        'binaryLiterals': false,
-        'blockBindings': true,
-        'classes': true,
-        'defaultParams': true,
-        'destructuring': true,
-        'forOf': true,
-        'generators': true,
-        'modules': false,
-        'objectLiteralComputedProperties': true,
-        'objectLiteralDuplicateProperties': false,
-        'objectLiteralShorthandMethods': true,
-        'objectLiteralShorthandProperties': true,
-        'octalLiterals': false,
-        'regexUFlag': false,
-        'regexYFlag': false,
-        'restParams': true,
-        'spread': true,
-        'superInFunctions': true,
-        'templateStrings': true,
-        'unicodePointEscapes': true,
-        'globalReturn': false,
-        'jsx': false
+    'parserOptions': {
+        'ecmaVersion': 8,
+        'ecmaFeatures': {
+            'arrowFunctions': true,
+            'binaryLiterals': false,
+            'blockBindings': true,
+            'classes': true,
+            'defaultParams': true,
+            'destructuring': true,
+            'forOf': true,
+            'generators': true,
+            'modules': false,
+            'objectLiteralComputedProperties': true,
+            'objectLiteralDuplicateProperties': false,
+            'objectLiteralShorthandMethods': true,
+            'objectLiteralShorthandProperties': true,
+            'octalLiterals': false,
+            'regexUFlag': false,
+            'regexYFlag': false,
+            'restParams': true,
+            'spread': true,
+            'superInFunctions': true,
+            'templateStrings': true,
+            'unicodePointEscapes': true,
+            'globalReturn': false,
+            'jsx': false
+        },
+        'sourceType': 'module'
     },
+
     'env': {
         'browser': true,
         'node': true
-    },
-
-    'parserOptions': {
-        'ecmaVersion': 8,
-        'sourceType': 'module'
     },
 
     'rules': {
