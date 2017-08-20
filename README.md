@@ -20,28 +20,6 @@
 
 The rulesets assume sane defaults. — You can directly use them in your projects our you can extend and customize them to suit your specific needs.
 
-## About This Repository
-
-This repository is a part of the [Byte-Sized JavaScript VideoCasts][vidcast].
-
-```
-  _               __
- |_)   _|_  _ __ (_  o _   _   _|
- |_) \/ |_ (/_   __) | /_ (/__(_|
-     /        |  _.     _. (_   _ ._ o ._ _|_
-            \_| (_| \/ (_| __) (_ |  | |_) |_
-                                       |
-            »»  bytesized.tv  ««
-```
-
-## Byte-Sized What?!
-
-[Byte-Sized JavaScript][vidcast].
-
-It is a compilation of short (*around ten minutes*) monthly screencasts about **JavaScript** and related technologies.
-
-[vidcast]: https://bytesized.tv/ "ByteSized.TV"
-
 ## Installation
 
 Make sure that you have [ESLint](http://eslint.org/) installed in your project.
@@ -137,4 +115,13 @@ We are committed to making participation in this project a harassment-free exper
 
 [See the code of conduct for details](CODE_OF_CONDUCT.md).
 
+## A [ByteSized.TV][vidcast] Project
+
+This repository is a part of the [Byte-Sized JavaScript VideoCasts][vidcast].
+
+It is a compilation of short (*around ten minutes*) screencasts about **JavaScript** and related technologies.
+
+[**Learn**, **explore**, and **have fun**][vidcast]!
+
+[vidcast]: https://bytesized.tv/ "ByteSized.TV"
 
