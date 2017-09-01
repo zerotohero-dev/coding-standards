@@ -8,6 +8,10 @@
        _)                          _)
 ```
 
+## **Byte-Sized JavaScript Coding Standards** (*v0.9.0*)
+
+* Minor updates for the **base** and **Node.js** rule sets.
+
 ## **Byte-Sized JavaScript Coding Standards** (*v0.7.0*)
 
 * Slightly changed the code to keep it compatible with the recent version of ESLint.
