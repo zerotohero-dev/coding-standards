@@ -171,7 +171,7 @@ module.exports = {
         'no-sync': 'error',
 
         /* Stylistic Issues */
-        'array-bracket-spacing': [ 'error', 'always' ],
+        'array-bracket-spacing': [ 'error', 'never' ],
         'brace-style': [ 'error', '1tbs', {
             'allowSingleLine': true
         } ],
@@ -188,7 +188,7 @@ module.exports = {
         'eol-last': 'error',
         'func-names': 'error',
         'func-style': 'off',
-        'indent': [ 'error', 4 ],
+        'indent': [ 'error', 2 ],
         'key-spacing': [ 'error', {
             'beforeColon': false,
             'afterColon': true
@@ -228,7 +228,7 @@ module.exports = {
         'space-after-keywords': 'off',
         'space-before-blocks': [ 'error', 'always' ],
         'space-before-function-paren': [ 'error', 'never' ],
-        'space-in-parens': [ 'error', 'always' ],
+        'space-in-parens': [ 'error', 'never' ],
         'space-infix-ops': 'error',
         'keyword-spacing': 'error',
         'space-unary-ops': 'off',
