@@ -5,7 +5,11 @@
   "main": "index.js",
   "scripts": {
     "test": "bin/test.sh",
+    "precommit": "bin/precommit.sh",
     "lint": "bin/lint.sh"
+  },
+  "lint-staged": {
+    "*.{js,json,css,md}": ["prettier --write", "git add"]
   },
   "repository": {
     "type": "git",
