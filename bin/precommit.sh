@@ -13,11 +13,11 @@
 #
 #  Send your comments, suggestions, and feedback to me@volkan.io
 
-yarn run lint
+yarn run test
 
 if [ $? -eq 1 ]
 then
-   echo "Fix lint warnings before commit!"
+   echo "Tests failed!"
    exit 1
 fi
 

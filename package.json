@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-jsbites",
-  "version": "2.0.1",
+  "version": "2.1.0",
   "description": "Byte-Sized JavaScript Coding Standards",
   "main": "index.js",
   "scripts": {
