@@ -6,7 +6,7 @@
 [deps]: https://david-dm.org/jsbites/coding-standards.svg
 [deps-url]: https://david-dm.org/jsbites/coding-standards
 
-```
+```text
    __                                  __
   / _)  _  _   _ ) o  _   _           (_ \
  | |   (_ (_) (_(  ( ) ) (_(            | |
@@ -26,7 +26,7 @@ Make sure that you have [ESLint](http://eslint.org/) installed in your project.
 
 Install **Byte-Sized JavaScript Coding Standards** via npm:
 
-```
+```bash
 npm install eslint-config-jsbites
 ```
 
@@ -119,9 +119,8 @@ We are committed to making participation in this project a harassment-free exper
 
 This repository is a part of the [Byte-Sized JavaScript VideoCasts][vidcast].
 
-It is a compilation of short (*around ten minutes*) screencasts about **JavaScript** and related technologies.
+It is a compilation of short (_around ten minutes_) screencasts about **JavaScript** and related technologies.
 
 [**Learn**, **explore**, and **have fun**][vidcast]!
 
 [vidcast]: https://bytesized.tv/ "ByteSized.TV"
-
