@@ -206,7 +206,7 @@ module.exports = {
     'eol-last': 'error',
     'func-names': 'error',
     'func-style': 'off',
-    indent: ['error', 2],
+    indent: ['off', 2],
     'key-spacing': [
       'error',
       {

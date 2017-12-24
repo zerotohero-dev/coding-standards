@@ -8,9 +8,11 @@
        _)                          _)
 ```
 
-## **Byte-Sized JavaScript Coding Standards** (_v2.1.0_)
+## **Byte-Sized JavaScript Coding Standards** (_v2.1.1_)
 
-* Removed `max-len` constraint since it was conflicting with prettier formatting at times.
+* Removed `max-len` constraint since it was conflicting with prettier formatting
+  at times.
+* Removed `indent` rule for the very same reason.
 
 ## **Byte-Sized JavaScript Coding Standards** (_v2.0.0_)
 

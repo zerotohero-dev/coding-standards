@@ -17,4 +17,4 @@
 # Send your comments, suggestions, and feedback to me@volkan.io
 #
 
-eslint .
+exit 0
